@@ -1,0 +1,7 @@
+project_id = "mcrumkouskzprkfdlnrz"
+
+[functions.ai-chat]
+verify_jwt = false
+
+[functions.analyze-return]
+verify_jwt = false
